@@ -8,7 +8,7 @@
 <p>
 
 
-<form method="GET" action="http://segonku.unl.edu/~wthomas/data/dhistory.search.php">
+<form method="GET" action="http://digitalhistory.unl.edu/data/dhistory.search.php">
 </p>
 <h3>Last Name: <input type="text" name="last_name" size=25 maxlength=25 />
 </h3>
